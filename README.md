@@ -5,12 +5,22 @@ It is really suitable to monitor patinets. BLE connection allow to send importan
 <h3>MCU</h3>
 <h3>Antenna</h3>
 <h3>Analog Device PPG</h3>
+ADPD144RI-ACEZ-RL7
 <h3>Maxim PPG</h3>
+MAX30102EFD+T
 <h3>TI PPG</h3>
+AFE4404YZPT
+BAV99W-7-F
 <h3>Body Temp</h3>
+TMP117MAIDRVR
 <h3>IR Emitter</h3>
+GP2S60B
 <h3>Phototransistor Reciever</h3>
+TLV8542RUGR
+TLV3691IDPFR
 <h3>IR LED Driver</h3>
+TLV9002SIRUGR
+CSD17483F4
 <h3>E-Paper LCD Driver</h3>
 <h3>Opto Switch</h3>
-<h3>IR LED Driver</h3>
+GP2S60B
