@@ -87,3 +87,7 @@ This 200-mΩ, 30-V N-Channel FemtoFET™ MOSFET technology is designed and optim
 <h3>E-Paper LCD Driver</h3>
 <h3>Opto Switch</h3>
 GP2S60B
+
+### References
+</br>
+https://cad.onshape.com/documents/590fd9d2577edce09cd79acb/w/59bdae059815c2661de67382/e/c4bf7e4cc2901b3cbc27d605?renderMode=0&uiState=65ef5097d6402e49b40ecd23
